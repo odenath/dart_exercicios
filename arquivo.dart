@@ -142,3 +142,5 @@ void main() {
 // bool isEqual(List<int>elemento) {
 //     return elemento[0] == elemento[1];
 // }
+//passagem de parâmetros por valor
+//passagem de parâmetros por referência

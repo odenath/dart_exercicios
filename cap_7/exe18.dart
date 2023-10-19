@@ -5,7 +5,7 @@ import 'dart:math';
 
 void main() {
   List<List<int>> matriz =
-      List.generate(4, (i) => List.generate(4, (j) => Random().nextInt(100)));
+      List.generate(8, (i) => List.generate(6, (j) => Random().nextInt(100)));
   List<int> media = [];
   int temp = 0;
 
@@ -13,16 +13,17 @@ void main() {
     print(linha);
   }
   for (int i = 0; i < matriz.length; i++) {
-    for (int j = 0; j < matriz.length; j++) {
+    for (int j = 0; j < 6; j++) {
       if (i % 2 == 0) {
         temp += matriz[i][j];
       }
     }
-    media.add(temp);
+    if(temp != 0){
+      media.add(temp);
+    }
+    
     temp = 0;
   }
   print("");
   print(media);
 }
-
-//concertar amanhã
