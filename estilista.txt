@@ -1,0 +1,5 @@
+Cod_Estilista, Nome_Estilista, Salario
+1, João, 1000
+2, Maria, 2000
+3, José, 3000
+4,Gustavo,4000

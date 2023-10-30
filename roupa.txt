@@ -1,0 +1,5 @@
+Cod_Roupa, Descricao_Roupa, Cod_Estilista, Cod_Estacao, Ano
+1, Camisa, 1, 1, 2020
+2, Calça, 2, 2, 2020
+3, Blusa, 3, 3, 2020
+10,Vestido,4,5,2021

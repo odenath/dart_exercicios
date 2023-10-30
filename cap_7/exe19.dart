@@ -8,7 +8,7 @@ void main() {
       5, (i) => List.generate(5, (j) => Random().nextDouble() * 100));
   List<double> vetorDiagonal = List.filled(5, 0);
   double maior;
-  double temp;
+  // double temp;
 
   for (List<double> linha in matriz) {
     print(linha.map((e) => e.toStringAsFixed(2)).toList());

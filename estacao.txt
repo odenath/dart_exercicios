@@ -1,0 +1,6 @@
+Cod_Estacao, Nome_Estacao
+1, Verão
+2, Inverno
+3, Outono
+4, Primavera
+5,primavera-verao

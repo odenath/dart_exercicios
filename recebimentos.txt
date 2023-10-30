@@ -1,0 +1,2 @@
+Num_doc: | Valor_doc: | Data_emissao: | Data_vencimento: | Cod_Cli: | 
+505 | 12.50 | 12/12/2021 | 12/12/2023 | 2233 | 
